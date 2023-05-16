@@ -9,6 +9,7 @@ package com.mycompany.aarrydemo1;
  * @author vivia
  */
 public class Student {
+    // added first comment
     private String studentId;
     private String studentName;
 
